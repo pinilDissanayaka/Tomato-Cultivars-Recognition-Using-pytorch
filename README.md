@@ -34,5 +34,4 @@ The images are labeled by the file prefixes. Labels correspond to the follow tom
 
 15=>Supersweet 100
 
-[Dataset][[an_awesome_website_link](https://www.kaggle.com/datasets/olgabelitskaya/tomato-cultivars)https://www.kaggle.com/datasets/olgabelitskaya/tomato-cultivars] is awesome.
-
+Dataset URL : https://www.kaggle.com/datasets/olgabelitskaya/tomato-cultivars
